@@ -1,4 +1,4 @@
-# Grocery Organiser
+# Grocery Organiser (aka Grocery Manager)
 
 Created by: Nuranissa Abdul Wahid (crummy-boi)  
 Date: December 2020  
