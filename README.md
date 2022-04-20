@@ -9,4 +9,4 @@ The Grocery program is made to replicate an online grocery store, where your ord
 
 This was an assignment for my CSS 143 class.  
 
-Please do not copy my code without my permission.
+Please do not copy or fork my code without my permission. This code is for viewing purposes only (unless you have my permission). **I strongly do not condone cheating and stealing code, so I will deny any request of using my code for school-related activites, such as homework.
