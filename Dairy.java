@@ -1,7 +1,7 @@
 /**
  * Name: Nuranissa Sofia Abdul Wahid
  * CSS 143 A
- * Assignment: GroceryOrganiser, final assignment. To stock
+ * Assignment: GroceryManager, final assignment. To stock
  * inventory, order items in the inventory, and reorder out
  * of stock items in the inventory by using multiple classes
  * 
