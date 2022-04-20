@@ -1,7 +1,7 @@
 /**
  * Name: Nuranissa Sofia Abdul Wahid
  * CSS 143 A
- * Assignment: GroceryManager, final assignment. To stock
+ * Assignment: GroceryOrganiser, final assignment. To stock
  * inventory, order items in the inventory, and reorder out
  * of stock items in the inventory by using multiple classes
  * 
@@ -17,7 +17,9 @@ package Grocery;
  */
 public class Dairy extends GroceryItem{
 
-	/*to take the refrigeration temperature of the dairy item later*/
+	/**
+	 * To take the refrigeration temperature of the dairy item later
+	 */
 	private int refridgeTemp;
 
 	/**
