@@ -1,4 +1,4 @@
-# Grocery Manager
+# Grocery
 
 Created by: Nuranissa Abdul Wahid (crummy-boi)  
 Date: December 2020  
