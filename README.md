@@ -1,9 +1,10 @@
 # Grocery
 
 Created by: Nuranissa Abdul Wahid (crummy-boi)  
-GroceryDriver credited to Professor Lesley Kalmin   
 Date: December 2020  
 
-A program made to replicate an online grocery store, where you order from its inventory.   
+GroceryDriver.java credited to Professor Lesley Kalmin   
+
+The Grocery program is made to replicate an online grocery store, where your order list is processed with the inventory.   
 
 This was an assignment for my CSS 143 class.
